@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1640774246 source:d:\nikodem\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1640777761 source:d:\nikodem\linkedlist\src\node.cpp
+	"Node.h"
+	<cstddef>
+
+1640777762 d:\nikodem\linkedlist\include\node.h
+
+1640774337 source:d:\nikodem\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1640774232 d:\nikodem\linkedlist\include\linkedlist.h
+	"Node.h"
+	<cstddef>
+
+1642077647 source:c:\users\nikodem\desktop\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1640774232 c:\users\nikodem\desktop\linkedlist\include\linkedlist.h
+	"Node.h"
+	<cstddef>
+
+1640777762 c:\users\nikodem\desktop\linkedlist\include\node.h
+
+1642077471 source:c:\users\nikodem\desktop\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1640777761 source:c:\users\nikodem\desktop\linkedlist\src\node.cpp
+	"Node.h"
+	<cstddef>
+
